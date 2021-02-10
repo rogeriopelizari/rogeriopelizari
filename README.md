@@ -5,7 +5,7 @@
 - 🎴 Amo <strong>desafios</strong> e aprender é minha inspiração. 
 
 <br>
-<h3 align="left">Meus contatos:</h3>
+<h3 align="center">Meus contatos:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/rogério-pelizari-haidamus-67712aa8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rogério-pelizari-haidamus-67712aa8/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rogpelizari/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/rogpelizari/" height="30" width="40" /></a>
