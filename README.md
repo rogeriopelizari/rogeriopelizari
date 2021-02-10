@@ -58,7 +58,6 @@
 <img src="https://komarev.com/ghpvc/?username=rogeriopelizari&label=Profile%20views&color=0e75b6&style=flat" alt="rogeriopelizari" /> 
 </p>
 <br>
-<br>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rogeriopelizari&&amp;langs_count=5&amp;theme=dark&amp;layout=compact" alt="rogeriopelizari" /></p>
 <p>
